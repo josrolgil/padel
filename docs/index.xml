@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>YouPadelCenter</title>
-    <link>https://josrolgil.github.io/padel/</link>
+    <link>https://josrolgil.github.io/</link>
     <description>Recent content on YouPadelCenter</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://josrolgil.github.io/padel/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://josrolgil.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Clases</title>
-      <link>https://josrolgil.github.io/padel/clases/</link>
+      <link>https://josrolgil.github.io/clases/</link>
       <pubDate>Sun, 07 Mar 2021 12:58:49 +0100</pubDate>
       
-      <guid>https://josrolgil.github.io/padel/clases/</guid>
+      <guid>https://josrolgil.github.io/clases/</guid>
       <description>Estas son nuestras clases:
 Paquetes: lunes 17h
 Saben coger bien la pala: martes 18h
@@ -23,10 +23,10 @@ Putos amos: sábado 12h</description>
     
     <item>
       <title>Contacto</title>
-      <link>https://josrolgil.github.io/padel/contacto/</link>
+      <link>https://josrolgil.github.io/contacto/</link>
       <pubDate>Sun, 07 Mar 2021 12:58:49 +0100</pubDate>
       
-      <guid>https://josrolgil.github.io/padel/contacto/</guid>
+      <guid>https://josrolgil.github.io/contacto/</guid>
       <description>YouPadel Center Córdoba Avenida de la torrecilla (junto a las prostitutas de la Torrecilla)
 Teléfono de reservas: 123 456 789
 Si tienes quejas, no vengas</description>
@@ -34,28 +34,28 @@ Si tienes quejas, no vengas</description>
     
     <item>
       <title>Horarios</title>
-      <link>https://josrolgil.github.io/padel/horarios/</link>
+      <link>https://josrolgil.github.io/horarios/</link>
       <pubDate>Sun, 07 Mar 2021 12:58:49 +0100</pubDate>
       
-      <guid>https://josrolgil.github.io/padel/horarios/</guid>
+      <guid>https://josrolgil.github.io/horarios/</guid>
       <description>Abierto de lunes a domingo 10:00 - 21:00</description>
     </item>
     
     <item>
       <title>Instalaciones</title>
-      <link>https://josrolgil.github.io/padel/instalaciones/</link>
+      <link>https://josrolgil.github.io/instalaciones/</link>
       <pubDate>Sun, 07 Mar 2021 12:58:49 +0100</pubDate>
       
-      <guid>https://josrolgil.github.io/padel/instalaciones/</guid>
+      <guid>https://josrolgil.github.io/instalaciones/</guid>
       <description>Estas son nuestras instalaciones</description>
     </item>
     
     <item>
       <title>Tarifas</title>
-      <link>https://josrolgil.github.io/padel/tarifas/</link>
+      <link>https://josrolgil.github.io/tarifas/</link>
       <pubDate>Sun, 07 Mar 2021 12:58:49 +0100</pubDate>
       
-      <guid>https://josrolgil.github.io/padel/tarifas/</guid>
+      <guid>https://josrolgil.github.io/tarifas/</guid>
       <description>Estas son nuestras tarifas:
 1 hora -&amp;gt; 20 €/h
 2 horas -&amp;gt; 18€/h

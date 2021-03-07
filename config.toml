@@ -1,4 +1,4 @@
-baseURL = "https://josrolgil.github.io/padel/"
+baseURL = "https://josrolgil.github.io/"
 languageCode = "en-us"
 title = "YouPadelCenter"
 theme = "alpha-church"
@@ -35,7 +35,7 @@ unsafe = true
     weight = 2
 
   [[menu.main]]
-    name = "instalaciones"
+    name = "Instalaciones"
     parent = "El club"
     url = "/instalaciones"
     weight = 1
@@ -71,7 +71,7 @@ unsafe = true
   customCSS = ["example.css"]
 
   [params.banner]
-    image = "/img/club.jpg"
+    image = "/img/banner.jpg"
 
 #  [params.style]
 #    googleFonts = ["Cardo", "Crimson+Text", "Merriweather", "Playfair+Display:400,700", "Roboto+Slab"]
